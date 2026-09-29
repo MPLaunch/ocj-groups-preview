@@ -1,0 +1,122 @@
+{
+"van": [
+361,
+256
+],
+"flake": [
+361,
+640
+],
+"hyatt": [
+360,
+588
+],
+"shower": [
+512,
+640
+],
+"wetarea": [
+482,
+640
+],
+"garage-before": [
+512,
+640
+],
+"garage-coat": [
+253,
+576
+],
+"retaining-wall": [
+361,
+640
+],
+"concrete-before": [
+480,
+640
+],
+"balcony-membrane": [
+480,
+640
+],
+"balcony-membrane-2": [
+480,
+640
+],
+"drive-red": [
+800,
+565
+],
+"drive-grey": [
+800,
+565
+],
+"drive-dark": [
+800,
+565
+],
+"drive-dark-2": [
+800,
+565
+],
+"path": [
+800,
+565
+],
+"ramp": [
+800,
+565
+],
+"bus-lane": [
+886,
+532
+],
+"bus-lane-2": [
+886,
+532
+],
+"bus-taxi": [
+800,
+565
+],
+"road-curve": [
+800,
+1224
+],
+"stadium": [
+600,
+400
+],
+"plaza": [
+600,
+400
+],
+"plaza-2": [
+400,
+600
+],
+"green-surface": [
+600,
+400
+],
+"court-logo": [
+600,
+400
+],
+"red-path": [
+1200,
+1600
+],
+"blue-membrane": [
+1200,
+1600
+],
+"tiles": [
+1400,
+1050
+],
+"tiles-2": [
+1400,
+1050
+]
+}
